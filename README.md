@@ -3,8 +3,6 @@ A good **README** for your project should give a clear overview of the project, 
 
 ---
 
-# SQL Bookstore Database
-
 This project contains a SQL-based dataset for a virtual bookstore. It includes tables for books, authors, publishers, and genres, designed to help you practice SQL queries, data manipulation, and database management.
 
 ## Project Overview
@@ -32,8 +30,3 @@ The database consists of four main tables:
 
 ### Sample Data:
 The tables contain sample data for several well-known books, authors, and publishers, which makes it ideal for running and testing SQL queries.
-
-
-
-
-
