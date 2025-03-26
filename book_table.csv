@@ -1,0 +1,9 @@
+book_id,title,author_id,publisher_id,genre_id,year_published,price
+1,"The Great Gatsby",1,1,1,1925,15.99
+2,"Moby Dick",2,2,2,1851,20.49
+3,1984,3,3,3,1949,17.99
+4,"To Kill a Mockingbird",4,1,4,1960,15
+5,"Pride and Prejudice",5,2,5,1813,13.99
+6,"The Catcher in the Rye",6,4,3,1951,18.49
+7,"War and Peace",7,3,2,1869,25
+8,"Crime and Punishment",8,5,4,1866,23
